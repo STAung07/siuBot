@@ -1,0 +1,124 @@
+Dependencies for Project 'siuuuu', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6130001::V6.13.1::.\ARMCLANG
+F (.\main.c)(0x625A5563)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/CMSIS-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/Core/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/RTX/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include"-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o ./objects/main.o -MD)
+I (RTE\_Target_1\RTE_Components.h)(0x622AC7D9)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585B7C0A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5A8EB578)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5D8A1E5E)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56441C9A)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F1798)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x5DB34DA0)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x5DB34DA0)
+I (uart.h)(0x6246C443)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5DB34DA0)
+I (motorcontrol.h)(0x624EC90A)
+I (led.h)(0x623EE432)
+I (audio.h)(0x625A55B5)
+I (ultrasonic.h)(0x6246C25C)
+F (.\motorcontrol.c)(0x624F94B0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/CMSIS-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/Core/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/RTX/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include"-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o ./objects/motorcontrol.o -MD)
+I (motorcontrol.h)(0x624EC90A)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585B7C0A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5A8EB578)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5D8A1E5E)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56441C9A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5DB34DA0)
+F (.\motorcontrol.h)(0x624EC90A)()
+F (.\led.h)(0x623EE432)()
+F (.\led.c)(0x623EE293)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/CMSIS-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/Core/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/RTX/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include"-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o ./objects/led.o -MD)
+I (led.h)(0x623EE432)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585B7C0A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5A8EB578)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5D8A1E5E)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56441C9A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5DB34DA0)
+F (.\audio.h)(0x625A55B5)()
+F (.\audio.c)(0x624DA2F8)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/CMSIS-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/Core/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/RTX/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include"-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o ./objects/audio.o -MD)
+I (audio.h)(0x625A55B5)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585B7C0A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5A8EB578)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5D8A1E5E)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56441C9A)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F1798)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x5DB34DA0)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5DB34DA0)
+F (.\ultrasonic.c)(0x6246C275)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/CMSIS-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/Core/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/RTX/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include"-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o ./objects/ultrasonic.o -MD)
+I (led.h)(0x623EE432)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585B7C0A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5A8EB578)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5D8A1E5E)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56441C9A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5DB34DA0)
+F (.\ultrasonic.h)(0x6246C25C)()
+F (.\uart.c)(0x6246C4E3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/CMSIS-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/Core/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/RTX/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include"-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o ./objects/uart.o -MD)
+I (led.h)(0x623EE432)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585B7C0A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5A8EB578)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5D8A1E5E)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56441C9A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5DB34DA0)
+F (.\uart.h)(0x6246C443)()
+F (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Library\ARM\RTX_CM0.lib)(0x5D2590B8)()
+F (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.c)(0x5D2590B8)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/CMSIS-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/Core/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/RTX/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include"-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o ./objects/rtx_lib.o -MD)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5A8EB578)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5D8A1E5E)
+I (RTE\CMSIS\RTX_Config.h)(0x5C8F4DD4)
+I (RTE\_Target_1\RTE_Components.h)(0x622AC7D9)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2590B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F1798)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2590B8)
+F (RTE\CMSIS\RTX_Config.c)(0x624D4B58)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/CMSIS-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/Core/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/RTX/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include"-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o ./objects/rtx_config.o -MD)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5A8EB578)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5D8A1E5E)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2590B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F1798)
+F (RTE\CMSIS\RTX_Config.h)(0x5C8F4DD4)()
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x56441C9A)(--cpu Cortex-M0+ --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --pd "__MICROLIB SETA 1"-I.\RTE\CMSIS-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-I"C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include"-I"C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include"-I"C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include"--pd "__UVISION_VERSION SETA 529"--pd "_RTE_ SETA 1"--pd "MKL25Z128xxx4 SETA 1"--list .\listings\startup_mkl25z4.lst--xref -o .\objects\startup_mkl25z4.o--depend .\objects\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x56441C9A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/CMSIS-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/Core/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/ARM/CMSIS/5.6.0/CMSIS/RTOS2/RTX/Include"-I"C:/Users/Swann Tet Aung/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include"-D__UVISION_VERSION="529" -D_RTE_ -DMKL25Z128xxx4-o ./objects/system_mkl25z4.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB34DA0)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585B7C0A)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Users\Swann Tet Aung\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5A8EB578)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5D8A1E5E)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56441C9A)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x56441C9A)()
